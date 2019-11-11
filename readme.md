@@ -5,3 +5,4 @@
 ## TODO
 - 3장: ggplot(from R), seaborn(matplotlib++), D3.js(Web interactive visualization), Bokeh(D3.js style visualization)
 - 4장: Numpy(Vector arithmetic operation)
+- 5장: pandas, SciPy, StatsModels(Statistics)
